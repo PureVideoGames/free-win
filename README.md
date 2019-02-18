@@ -8,9 +8,25 @@ _Please inform me about dead links!_
 
 [![Sokoban++](https://github.com/PureVideoGames/free-win/raw/master/images/Sokoban%2B%2B/screenshot001_384x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/Sokoban%2B%2B/screenshot001_926x617.png)
 
-A free [Sokoban] clone.
+A freeware [Sokoban] clone. It is translated to many languages. Some skins are included.
 
 [Webpage](http://www.joriswit.nl/sokoban/) | [Download](http://www.joriswit.nl/sokoban/en/download.htm)
+
+## SokobanP
+
+[![SokobanP](https://github.com/PureVideoGames/free-win/raw/master/images/SokobanP/screenshot001_295x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/SokobanP/screenshot001_802x697.png)
+
+An open source (GPLv3) [Sokoban] clone. A huge amount of levels included. Nine languages, many skins.
+
+[Author's webpage](http://petr.lastovicka.sweb.cz/indexEN.html) | [Download](https://sourceforge.net/projects/sokobanp/files/SokobanP.zip/download)
+
+## YSokoban
+
+[![YSokoban](https://github.com/PureVideoGames/free-win/raw/master/images/YSokoban/screenshot001_416x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/YSokoban/screenshot001_888x547.png)
+
+A freeware [Sokoban] clone. Some skins are included.
+
+[Webpage](http://ygp.orgfree.com/sokoban.html) | [Download](http://ygp.orgfree.com/pgms/ysokoban.zip)
 
 
 [Sokoban]: https://en.wikipedia.org/wiki/Sokoban
