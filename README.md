@@ -10,7 +10,7 @@ Below, _Pure Downloads_ are archived by me according to my own preferences.
 
 [![BlockOut II](https://github.com/PureVideoGames/free-win/raw/master/images/BlockOut%20II/scr1_341x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/BlockOut%20II/scr1_512x384.jpg)
 
-BlockOut II is an open source (GPLv2) adaptation of the original [BlockOut] DOS game.
+_BlockOut II_ is an open source (GPLv2) adaptation of the original [BlockOut] DOS game.
 
 [Webpage](http://blockout.net/blockout2/) | [Download](https://sourceforge.net/projects/blockout/files/latest/download) 
 
@@ -30,11 +30,28 @@ An open source (GPLv3) [Sokoban] clone. A huge amount of levels included. Nine l
 
 [Author's webpage](http://petr.lastovicka.sweb.cz/indexEN.html) | [Download](https://sourceforge.net/projects/sokobanp/files/SokobanP.zip/download) | [Pure Download](https://doc-0g-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/ig4o53c8ecvccg6b6c1f6d0vvgtuodno/1550484000000/01317742053574576657/01317742053574576657/1whTPBIleQprQQRAhpMe8W1c6WLzDdLVM?e=download)
 
+## [Supaplex]
+
+[![Supaplex Title Screen](https://github.com/PureVideoGames/free-win/raw/master/images/Supaplex/spfix63_001_320x200.png)](https://github.com/PureVideoGames/free-win/raw/master/images/Supaplex/spfix63_001_640x400.png) [![Supaplex Gameplay](https://github.com/PureVideoGames/free-win/raw/master/images/Supaplex/spfix63_003_320x200.png)](https://github.com/PureVideoGames/free-win/raw/master/images/Supaplex/spfix63_003_640x400.png)
+
+[Supaplex] is an extended clone of [Boulder Dash]. Originally a commercial game which was later put into freeware.
+
+[Webpage](http://www.elmerproductions.com/sp/index.html) | [Pure Download](https://doc-0g-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/m9rallmbefmuj4d5mme21dvvhkdqsda6/1550484000000/01317742053574576657/01317742053574576657/1UL7DTGylEcoG2qQJ2xjdj1kuDANVWeEL?e=download)
+
+## Supaplex Second Chance
+
+[![Supaplex Second Chance](https://raw.githubusercontent.com/PureVideoGames/free-win/master/images/Supaplex%20Second%20Chance/screenshot001_455x256.png)](https://raw.githubusercontent.com/PureVideoGames/free-win/master/images/Supaplex%20Second%20Chance/screenshot001_1600x900.png)
+
+_Supaplex Second Chance_ is a commercial remake of [Supaplex] which is free for desktop PCs and Macs.
+
+[Webpage](https://www.supaplex3d.com/) | [Download](https://goo.gl/e5eVFi) | [Pure Download](https://doc-0o-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/8gfufemdveansvmr1lljvohfqn9tp7u6/1550484000000/01317742053574576657/01317742053574576657/16vSfZ0i7zCTEmWX8HdZq7U-3XtI4dUvR?e=download)
+
+
 ## Tile World
 
 [![Tile World](https://github.com/PureVideoGames/free-win/raw/master/images/Tile%20World/screenshot001_333x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/Tile%20World/screenshot001_650x499.png)
 
-Tile World is an open source (GPLv2) emulation of the game [Chip's Challenge]. It do come with custom level set as the originals are copyrighted.
+_Tile World_ is an open source (GPLv2) emulation of the game [Chip's Challenge]. It do come with custom level set as the originals are copyrighted.
 
 [Webpage](http://www.muppetlabs.com/~breadbox/software/tworld/) | [Download](http://www.muppetlabs.com/~breadbox/pub/software/tworld/tworld-1.3.2-win32-CCLPs.zip) | [Pure Download](https://doc-0o-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/0rbcssb1ud7u65t11ljffnqcrdv1oleu/1550484000000/01317742053574576657/01317742053574576657/1ujV2hlinJohih22ToO4q4YBVEGFKj505?e=download)
 
@@ -47,5 +64,7 @@ A freeware [Sokoban] clone. Some skins are included.
 [Webpage](http://ygp.orgfree.com/sokoban.html) | [Download](http://ygp.orgfree.com/pgms/ysokoban.zip) | [Pure Download](https://doc-0g-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/fdncu5l17bsetljc9p9d83gh3vqc8ltf/1550484000000/01317742053574576657/01317742053574576657/1FVMAN1qjU3VVHAqDgr80mnFNslHrV3lY?e=download&nonce=ipbj9kk3120nq&user=01317742053574576657&hash=3kp8m56t8ejq99uojj9iesq2pjlh5vms)
 
 [BlockOut]: https://en.wikipedia.org/wiki/Blockout
+[Boulder Dash]: https://en.wikipedia.org/wiki/Boulder_Dash
 [Chip's Challenge]: https://en.wikipedia.org/wiki/Chip%27s_Challenge
 [Sokoban]: https://en.wikipedia.org/wiki/Sokoban
+[Supaplex]: https://en.wikipedia.org/wiki/Supaplex
