@@ -87,6 +87,14 @@ _WAtomic_ is an open source (GPLv2) Windows KAtomic/[Atomix] clone. There is a s
 
 [Webpage](http://watomic.sourceforge.net/) | [Download](http://prdownloads.sourceforge.net/watomic/WAtomic_1_2_3_257.zip?download) | [Pure Download](https://doc-0o-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/077ds3utu0ojq2jpi7rg1o3fr7u1f80s/1550491200000/01317742053574576657/01317742053574576657/1GeoQI-S8KSyNzBKcHJ7Re3KhmKvqe-S2?e=download)
 
+## Wizznic!
+
+[![Wizznic Gameplay 1](https://github.com/PureVideoGames/free-win/raw/master/images/Wizznic!/screenshot001_341x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/Wizznic!/screenshot001_960x720.png) [![Wizznic Gameplay 2](https://github.com/PureVideoGames/free-win/raw/master/images/Wizznic!/screenshot002_341x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/Wizznic!/screenshot002_960x720.png)
+
+_Wizznic!_ is an open source (GPLv3) remake of [Brix].
+
+[Webpage](http://wizznic.org/) | [Download](http://wizznic.org/download/0380/Wizznic_win_build_380.zip) | [Pure Download](https://doc-0g-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/thq3ff4vm9to7ueucmbf4jo64uh277cg/1550498400000/01317742053574576657/01317742053574576657/1zHYU95B585OJlSJ6FTB8K75ykt6WpTZY?e=download)
+
 ## YSokoban
 
 [![YSokoban](https://github.com/PureVideoGames/free-win/raw/master/images/YSokoban/screenshot001_416x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/YSokoban/screenshot001_888x547.png)
@@ -98,6 +106,7 @@ A freeware [Sokoban] clone. Some skins are included.
 [Atomix]: https://en.wikipedia.org/wiki/Atomix_(video_game)
 [BlockOut]: https://en.wikipedia.org/wiki/Blockout
 [Boulder Dash]: https://en.wikipedia.org/wiki/Boulder_Dash
+[Brix]: https://en.wikipedia.org/wiki/Brix_(video_game)
 [Chip's Challenge]: https://en.wikipedia.org/wiki/Chip%27s_Challenge
 [Deflektor]: https://en.wikipedia.org/wiki/Deflektor
 [Sokoban]: https://en.wikipedia.org/wiki/Sokoban
