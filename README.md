@@ -22,6 +22,15 @@ An open source (GPLv3) [Ugh!] clone, which is an arcade/flight game and itself a
 
 [Webpage](http://www.caveproductions.org/) | [Download](https://github.com/mgerhardy/caveexpress/releases/download/2.4/caveexpress-2.4.exe) | [Pure Download](https://doc-0o-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/8gfufemdveansvmr1lljvohfqn9tp7u6/1550484000000/01317742053574576657/01317742053574576657/16vSfZ0i7zCTEmWX8HdZq7U-3XtI4dUvR?e=download)
 
+## Deflektor X4
+
+[![Deflektor X4](https://github.com/PureVideoGames/free-win/raw/master/images/DeflektorX4/screenshot001_341x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/DeflektorX4/screenshot001_1024x768.png)
+
+An open source remake of [Deflektor].
+
+[Webpage](http://retrospec.sgn.net/users/ignacio/dfli.htm) | [Download](http://retrospec.sgn.net/download.php?link=deflektorx4&url=download/files/DeflektorX4.zip) | [Pure Download](https://doc-04-9g-docs.googleusercontent.com/docs/securesc/r7f10aj8r71p74jtko3m43b2atie80o8/875uiia0pi8vaavid48q098vadkmpu2b/1550491200000/01317742053574576657/01317742053574576657/1kcaSq_UqK7-K5KEk3Of0nquNNqT1MVzb?e=download)
+
+
 ## Sokoban++
 
 [![Sokoban++](https://github.com/PureVideoGames/free-win/raw/master/images/Sokoban%2B%2B/screenshot001_384x256.png)](https://github.com/PureVideoGames/free-win/raw/master/images/Sokoban%2B%2B/screenshot001_926x617.png)
@@ -90,6 +99,7 @@ A freeware [Sokoban] clone. Some skins are included.
 [BlockOut]: https://en.wikipedia.org/wiki/Blockout
 [Boulder Dash]: https://en.wikipedia.org/wiki/Boulder_Dash
 [Chip's Challenge]: https://en.wikipedia.org/wiki/Chip%27s_Challenge
+[Deflektor]: https://en.wikipedia.org/wiki/Deflektor
 [Sokoban]: https://en.wikipedia.org/wiki/Sokoban
 [Supaplex]: https://en.wikipedia.org/wiki/Supaplex
 [Ugh!]: https://en.wikipedia.org/wiki/Ugh!
